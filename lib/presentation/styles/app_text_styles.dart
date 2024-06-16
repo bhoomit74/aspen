@@ -42,17 +42,4 @@ class AppTextStyle {
           height: height,
           fontFamily:
               GoogleFonts.montserrat(fontWeight: fontWeight).fontFamily);
-
-  /*static TextStyle title = style(fontSize: 32, fontWeight: FontWeight.w500);
-  static TextStyle titleLarge =
-      style(height: 1.1, fontSize: 40, fontWeight: FontWeight.w500);
-  static TextStyle titleMedium =
-      style(fontSize: 24, fontWeight: FontWeight.w500);
-
-  static TextStyle subtitle = style(fontSize: 18, fontWeight: FontWeight.w600);
-  static TextStyle subtitleLarge =
-      style(fontSize: 24, fontWeight: FontWeight.normal);
-
-  static TextStyle body = style(fontSize: 14);
-  static TextStyle caption = style(fontSize: 12);*/
 }
